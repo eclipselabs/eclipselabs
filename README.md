@@ -19,3 +19,8 @@ Please see [Eclipse Labs FAQ](https://www.eclipse.org/org/foundation/eclipselabs
 
 To add your existing GitHub repository as an Eclipse Labs project, open an issue against
 this repository and one of our administrators will guide you through the process.
+
+## Notices
+Eclipse&reg; is a registered Trademark of the Eclipse Foundation, Inc.
+
+Please see the [Guidelines for Eclipse Logos & Trademarks](https://eclipse.org/legal/logo_guidelines.php).
